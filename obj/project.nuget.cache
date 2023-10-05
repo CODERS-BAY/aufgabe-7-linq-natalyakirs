@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jx4+iRnpFZO9AD8zBLD3OU1LwFomZt/VmPdqak+gMfm/krPmcHw7SjM5i1ZMPoFlhtLGYsQl1Jr+QW6JTUJdvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Codersbay\\Source\\Repos\\aufgabe-7-linq-natalyakirs\\LinqExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Codersbay\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
